@@ -17,6 +17,9 @@ Time how long each algorithm takes to solve the classification problem. With com
 
 ## How to use :
 -You should download the whole file and Unzip the 3 zip files to run the project
+
 -Then you should test and try the project on your terminal 
+
 -Type this command to test "<python check_images.py --dir uploaded_images/ --arch resnet  --dogfile dognames.txt > resnet_uploaded-images.txt>"
+
 -You'll find all the instructions and the other test commands in 'run_models_batch.sh' and 'run_models_batch_uploaded.sh' files
